@@ -1,0 +1,9 @@
+<GuiXml>
+    <Controls>
+        <!-- Virtual template stamped once per registered addon.          -->
+        <!-- Inherits ZO_Gamepad_ParametricList_Screen which provides     -->
+        <!-- the MaskContainer, parametric scroll list, header, and all   -->
+        <!-- standard gamepad screen infrastructure.                      -->
+        <TopLevelControl name="LibSettingsService_Screen" inherits="ZO_Gamepad_ParametricList_Screen" virtual="true" hidden="true" />
+    </Controls>
+</GuiXml>
